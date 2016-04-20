@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptorum09niebuoft_0281.png"; bbox 0 0 1780 3132; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 339 963 1299 1028">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 339 963 1299 1028">
+     <span class='ocr_line' id='line_1_1' title="bbox 339 963 1299 1028; baseline -0.001 -4"><span class='ocrx_word' id='word_1_1' title='bbox 339 963 1299 1028; x_wconf 85' lang='lat' dir='ltr'><strong>ANIMADVERSIONES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 794 1097 853 1135">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 794 1097 853 1135">
+     <span class='ocr_line' id='line_1_2' title="bbox 794 1097 853 1135; baseline -0.017 0"><span class='ocrx_word' id='word_1_2' title='bbox 794 1097 853 1135; x_wconf 87' lang='lat' dir='ltr'><strong>IN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 102 1221 1543 1286">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 102 1221 1543 1286">
+     <span class='ocr_line' id='line_1_3' title="bbox 102 1221 1543 1286; baseline -0.001 -3"><span class='ocrx_word' id='word_1_3' title='bbox 102 1223 695 1286; x_wconf 85' lang='lat' dir='ltr'>CONSTANTINI</span> <span class='ocrx_word' id='word_1_4' title='bbox 734 1221 1543 1285; x_wconf 86' lang='lat' dir='ltr'>PORPHYROGENITI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 738 1373 897 1407">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 738 1373 897 1407">
+     <span class='ocr_line' id='line_1_4' title="bbox 738 1373 897 1407; baseline 0.006 -1"><span class='ocrx_word' id='word_1_5' title='bbox 738 1373 897 1407; x_wconf 81' lang='lat' dir='ltr'>LLLLLL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 525 1475 1111 1523">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 525 1475 1111 1523">
+     <span class='ocr_line' id='line_1_5' title="bbox 525 1475 1111 1523; baseline -0.002 0"><span class='ocrx_word' id='word_1_6' title='bbox 525 1477 610 1523; x_wconf 92' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 660 1475 1111 1523; x_wconf 90' lang='lat' dir='ltr'><strong>THEMATIBUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 341 1605 1287 1647">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 341 1605 1287 1647">
+     <span class='ocr_line' id='line_1_6' title="bbox 341 1605 1287 1647; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 341 1606 413 1645; x_wconf 89' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 454 1607 527 1646; x_wconf 90' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 558 1606 1004 1647; x_wconf 77' lang='lat' dir='ltr'><strong>ADMINISTRANDO</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1047 1605 1287 1646; x_wconf 83' lang='lat' dir='ltr'><strong>IMPERIO.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
